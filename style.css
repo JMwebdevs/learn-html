@@ -1,0 +1,79 @@
+mark {
+  background-color: green;
+}
+span {
+  color: #e44d26;
+}
+.h1 {
+  color: #e44d26;
+}
+.img {
+  width: 150px;
+}
+.center {
+  text-align: center;
+  font-weight: bold;
+  font-size: 150px;
+}
+.subh1 {
+  margin-top: -5%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+.day1 {
+  margin-top: 1%;
+  margin-left: 2%;
+  margin-right: 54%;
+  border: 1px solid black;
+}
+.contentday1 {
+  margin-inline-start: 30px;
+}
+hr {
+  margin-right: 8%;
+}
+.day2 {
+  margin-top: 1%;
+  margin-left: 2%;
+  margin-right: 83%;
+  border: 1px solid black;
+}
+.contentday2 {
+  margin-inline-start: 30px;
+  margin-bottom: 25px;
+}
+.day3 {
+  margin-left: 2%;
+  margin-right: 80%;
+  border: 1px solid black;
+}
+.contentday3 {
+  margin-inline-start: 30px;
+  margin-bottom: 25px;
+}
+.day4 {
+  margin-left: 2%;
+  margin-right: 78%;
+  border: 1px solid black;
+}
+.contentday4 {
+  margin-inline-start: 30px;
+  margin-bottom: 25px;
+}
+.day5 {
+  margin-left: 2%;
+  margin-right: 75%;
+  border: 1px solid black;
+}
+.contentday5 {
+  margin-inline-start: 30px;
+  margin-bottom: 25px;
+}
+.contentday5 .video {
+  width: 300px;
+}
+.video {
+  width: 200px;
+  height: 200px;
+}

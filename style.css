@@ -11,12 +11,14 @@ span {
   width: 150px;
 }
 .center {
+  margin-top: 30px;
   text-align: center;
   font-weight: bold;
   font-size: 150px;
 }
 .subh1 {
-  margin-top: -5%;
+  margin-top: -6%;
+  margin-bottom: 30px;
   text-align: center;
   font-weight: bold;
   font-size: 25px;
@@ -83,13 +85,5 @@ hr {
   margin-left: 2%;
 }
 .contentday6 {
-  margin-inline-start: 30px;
-}
-.day7 {
-  border: 1px solid black;
-  margin-right: 80%;
-  margin-left: 2%;
-}
-.contentday7 {
   margin-inline-start: 30px;
 }

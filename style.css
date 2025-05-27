@@ -85,3 +85,11 @@ hr {
 .contentday6 {
   margin-inline-start: 30px;
 }
+.day7 {
+  border: 1px solid black;
+  margin-right: 80%;
+  margin-left: 2%;
+}
+.contentday7 {
+  margin-inline-start: 30px;
+}

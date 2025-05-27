@@ -77,3 +77,11 @@ hr {
   width: 200px;
   height: 200px;
 }
+.day6 {
+  border: 1px solid black;
+  margin-right: 80%;
+  margin-left: 2%;
+}
+.contentday6 {
+  margin-inline-start: 30px;
+}

@@ -158,7 +158,49 @@ hr {
 .containerday8 {
   text-align: left;
 }
-
-header {
+#ul {
+  color: #000000;
+  font-weight: bold;
+}
+#ol {
+  color: #000000;
+  font-weight: bold;
+}
+#css {
+  color: purple;
+  font-weight: bold;
+}
+.containerday9 {
+  background-color: rgb(185, 185, 185);
+  border: none;
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0px 0px 15px black;
+  margin-left: 2%;
+  margin-right: 75%;
+}
+.containerday9 h4 {
+  text-align: center;
+  border-radius: 40px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.363);
+  box-shadow: 0px 0px 15px gray;
+  padding: 8px;
+}
+.containerday9 header {
+  text-align: center;
+}
+.day8 header {
+  text-align: center;
+}
+.container10 {
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px black;
+  margin-left: 2%;
+  margin-right: 75%;
+  padding: 40px;
+}
+.container10 header {
   text-align: center;
 }
